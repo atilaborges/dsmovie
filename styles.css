@@ -61,9 +61,8 @@ align-items: center;
 }
 
 .dsmovie-card {
-    width: 360px;
-    height: 400px;
-    
+    width: 100%;
+    background-color: var(--white);
 }
 .dsmovie-card img{
     width: 100%;
